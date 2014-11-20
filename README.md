@@ -11,7 +11,7 @@ The original copy of this script is included for comparison.
 
 ##Changes / Improvements added by James include:
 
-* Greeting and CLock
+* Greeting and Clock
 * Background
 * Responsive Design
 * Social sharing of individual todos (Twitter only)
