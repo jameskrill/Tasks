@@ -15,9 +15,8 @@ The original copy of this script is included for comparison.
 * Background
 * Responsive Design
 * Social sharing of individual todos (Twitter only)
-* "Duplicate" icon on each todo (to duplciate items)
-* Trash - when items are cleared or removed, they go to a trash
-  * The trash is an additional backbone collection and view (and localstorage) that holds items until they are
-  * permanently removed.
+* "Duplicate" icon on each todo (to copy items)
+* Trash - when items are cleared or removed, they go to a trash which can be viewed from a link under the todo list
+  * The trash is an additional backbone collection and view (and localstorage) that holds items until they are permanently removed.
   * Items in the trash can be "restored" or "removed permanently"
-  * There is a button to clear all.
+  * There is a button to clear all items from the trash
